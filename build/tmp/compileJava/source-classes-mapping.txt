@@ -1,0 +1,6 @@
+com/email/EmailId.java
+ com.email.EmailId
+com/email/EmailValidation.java
+ com.email.EmailValidation
+com/email/EmailPattern.java
+ com.email.EmailPattern
